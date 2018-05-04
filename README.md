@@ -1,4 +1,3 @@
-# OOP
+this repo will is channeled to other use.
 
-by efrat asulin
-cover name for android application
+maybe port knocker
