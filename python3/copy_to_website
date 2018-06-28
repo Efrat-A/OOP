@@ -1,0 +1,2 @@
+set -x
+sudo cp hello.py /var/www/cgi-bin/
