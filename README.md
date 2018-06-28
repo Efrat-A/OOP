@@ -1,3 +1,3 @@
-this repo will is channeled to other use.
+planning a port knocker
 
-maybe port knocker
+https://www.youtube.com/watch?v=I3jCGBzMmzw
